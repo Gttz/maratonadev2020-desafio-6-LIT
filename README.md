@@ -1,6 +1,8 @@
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 
-Notebook Python feito para o Desafio 6 da Maratona Behind The Code 2020 - Realizado pela IBM
+Arquivo Jupyter Notebook feito para o Desafio 2 da Maratona Behind The Code 2020 - Realizado pela IBM
+
+A resolução do desafio se encontra em 'Solution.ipynb'
 
 # Desafio 06 | LIT
 
