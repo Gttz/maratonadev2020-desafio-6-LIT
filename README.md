@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
-<a href="https://discord.gg/2NRPpcU">
-<img src="https://img.shields.io/discord/734849242153222221?logo=discord" alt="chat on Discord"></a>
+
+Notebook Python feito para o Desafio 6 da Maratona Behind The Code 2020 - Realizado pela IBM
 
 # Desafio 06 | LIT
 
